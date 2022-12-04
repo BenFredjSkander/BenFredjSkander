@@ -7,7 +7,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- :school: I am a `Engineer Student` at [Higher Institute of Computer Science](http://www.isi.rnu.tn/).
+- :school: I am a `Engineer Student` at [ESPRIT](https://esprit.tn/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `DevOps` and `AWS`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`, this is [MY RESUME](https://bit.ly/3bgXV1v).
